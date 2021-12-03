@@ -23,7 +23,8 @@ libdfp_files += bid_decimal_globals bid_decimal_data \
          bid64_to_int32 bid64_to_int64 \
          bid64_to_uint32 bid64_to_uint64 \
          bid128_to_int32 bid128_to_int64 \
-         bid128_to_uint32 bid128_to_uint64
+         bid128_to_uint32 bid128_to_uint64 \
+         bid64_string
 
 # Ensure rounding mode is per-thread.
 # TODO: Should this be via autoconf instead?

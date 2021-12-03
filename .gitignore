@@ -22,3 +22,6 @@ sysd-versions
 Versions.all
 Versions.sysdeps
 gen-auto-dfp-tests
+libdecnumber.pc
+libdecnumber/Makefile.libdecnumber
+libdfp.pc
